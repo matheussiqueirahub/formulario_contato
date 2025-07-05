@@ -1,9 +1,9 @@
-# 📮 Formulário de Contato com Flet
+#  Formulário de Contato com Flet
 
 Este projeto em Python usa o framework [Flet](https://flet.dev) para exibir um formulário de contato com Nome, Email e Mensagem.  
 Ao clicar em "Enviar", aparece uma confirmação na tela.
 
-## 🚀 Como Executar
+##  Como Executar
 
 1. Clone o repositório:  
    \`\`\`bash
@@ -30,7 +30,7 @@ Ao clicar em "Enviar", aparece uma confirmação na tela.
 
 ---
 
-## 📂 Estrutura do Projeto
+##  Estrutura do Projeto
 \`\`\`
 formulario_contato/
 ├── app.py            # Código principal
@@ -41,6 +41,6 @@ formulario_contato/
 
 ---
 
-## 👨‍💻 Autor
+##  Autor
 
 Desenvolvido por [Matheus Siqueira](https://github.com/matheussiqueirahub)
